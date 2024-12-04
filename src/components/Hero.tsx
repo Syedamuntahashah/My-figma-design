@@ -14,7 +14,7 @@ function Hero (){
          </button>
       </div>   
      </div>      
-      <div>
+      <div className="gap-[4px] m-4">
         <Image src="/Image-container.png" alt="" width={824} height={549}/>
       </div>  
     </div>
